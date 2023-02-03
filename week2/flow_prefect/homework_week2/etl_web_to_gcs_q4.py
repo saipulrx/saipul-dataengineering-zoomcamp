@@ -44,6 +44,7 @@ def el_web_to_gcs(year: int, month: int, color: str) -> None:
     df = fetch(dataset_url)
     path = write_local(df, color, dataset_file)
     write_gcs(path)
+    print(f"rows: {len(df)}")
 
 @flow()
 def el_parent_flow(
