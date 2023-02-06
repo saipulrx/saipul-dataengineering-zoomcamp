@@ -8,4 +8,13 @@ Syllabus for this week :
 - From Google Cloud Storage to Big Query [(Video)](https://www.youtube.com/watch?v=Cx5jt-V5sgE&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 - Parametrizing Flow & Deployments [(Video)](https://www.youtube.com/watch?v=QrDxPjX10iw&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 - Schedules & Docker Storage with Infrastructure [(Video)](https://www.youtube.com/watch?v=psNSzqTsi-s&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
-- 
+- Prefect Cloud and Additional Resources [(Video)](https://www.youtube.com/watch?v=psNSzqTsi-s&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
+
+### Code repository
+[Code from videos](https://github.com/discdiver/prefect-zoomcamp)
+
+### Homework
+My homework source code can be found [here]() 
+
+### Data Architecture
+Data Architecture for this week are bellow
