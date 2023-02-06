@@ -18,3 +18,4 @@ My homework source code can be found [here]()
 
 ### Data Architecture
 Data Architecture for this week are bellow
+![data architecture](https://github.com/saipulrx/saipul-dataengineering-zoomcamp/blob/main/week2/data_architecture.jpg "Data Architecture")
